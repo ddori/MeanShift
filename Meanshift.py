@@ -76,7 +76,7 @@ def camShift():
         if k == ord('i'):
             print('Select Area')
             inputmode= True
-            frame = frame.copt()
+            frame = frame.copy()
             
             while inputmode:
                 cv2.imshow('frame',frame)
