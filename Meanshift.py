@@ -6,7 +6,7 @@ col, width, row, height =-1,-1,-1,-1
 frame = None
 frame2 = None
 inputmode=False
-rectangel =False
+rectangle =False
 trackWindow = None
 roi_hist=None
 
